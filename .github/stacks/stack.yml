@@ -68,6 +68,8 @@ configs:
 
 github-apps:
 - slug: sider
+- slug: greenkeeper
+- slug: azure-boards
 
 init:
 - uses: ".github/workflows/stack-init.yaml"
