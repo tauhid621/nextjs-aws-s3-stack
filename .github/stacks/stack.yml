@@ -67,7 +67,7 @@ configs:
         protected-branches: true
 
 github-apps:
-- slug: sider
+- slug: azure-pipelines
 - slug: greenkeeper
 - slug: azure-pipelines
 
